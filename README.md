@@ -95,6 +95,8 @@ Total:         2518         215        1091
  - [入門 Kubernetes | Kelsey Hightower, Brendan Burns, Joe Beda, 松浦 隼人 |本 | 通販 | Amazon][1]
  - [Hello Minikube][2]
   - kubernetes公式のチュートリアル。
+ - [「入門Kubernetes」入門][6]
+  - 入門 Kubernetesの図が少ない問題を補足するスライド
 
 
 
@@ -104,8 +106,6 @@ Total:         2518         215        1091
 [3]: https://www.slideshare.net/potix2_jp/docker-77560696
 [4]: https://www.infoq.com/jp/news/2017/06/alternative-kubernetes-runtimes
 [5]: https://www.redhat.com/ja/topics/containers/whats-a-linux-container 
-
-
-
+[6]: https://speakerdeck.com/doublemarket/20180609-gcpug-hiroshima-number-4?slide=1
 
 
