@@ -72,10 +72,10 @@ $ kubectl delete pods/kuard
 ### ログからの詳細情報の取得やら
 
 ```sh
-$ kubectl logs kuard
-$ kubectl exec kuard date # docker ライクで助かる
-$ kubectl exec -it kuard /bin/sh # docker ライクで助かるぞい
-$ kubectl cp hogehoge.txt <Pod>:/tmp/hogehoge.txt # docker ライクで助かるぞい
+kubectl logs kuard
+kubectl exec kuard date # docker ライクで助かる
+kubectl exec -it kuard /bin/sh # docker ライクで助かるぞい
+kubectl cp hogehoge.txt <Pod>:/tmp/hogehoge.txt # docker ライクで助かるぞい
 ```
 
 コンテナはイミュータブルであるべきだからあとから `cp`するというのはアンチパターンだけど、障害復旧の手段としてやっぱりあると便利。
