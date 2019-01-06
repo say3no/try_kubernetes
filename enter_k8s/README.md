@@ -1,4 +1,4 @@
-# try_kubernetes
+# enter_kubenetes
 
 kubernetesのトライアル的なサムシング。
 
