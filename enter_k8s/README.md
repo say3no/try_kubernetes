@@ -1,4 +1,4 @@
-# enter_kubenetes
+# Kubenetes: Up and Running
 
 kubernetesのトライアル的なサムシング。
 
